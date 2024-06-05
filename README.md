@@ -16,3 +16,9 @@
 5/29 
 (자기소개 페이지 만들 때 '웹페이지 구성하기' 본 후 응용해서 만들었기 때문에 자기소개 페이지 첨부합니다!!)
 https://grace0404.github.io/index.html
+
+6/5
+![KakaoTalk_20240605_233814624_01](https://github.com/grace0404/Techit__TIL/assets/163657245/8f9c2333-e3c5-4a74-a5ee-145c816b776a)
+![KakaoTalk_20240605_233814624_02](https://github.com/grace0404/Techit__TIL/assets/163657245/32fd2e6b-e241-41a9-860e-1af0cf486c9d)
+![KakaoTalk_20240605_233814624_03](https://github.com/grace0404/Techit__TIL/assets/163657245/08863c0b-b218-4e56-851f-390016e212c3)
+![KakaoTalk_20240605_233814624_04](https://github.com/grace0404/Techit__TIL/assets/163657245/22dccd0e-e02d-472f-9cd9-d815379a1fdd)
